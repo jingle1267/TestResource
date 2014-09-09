@@ -1,0 +1,4 @@
+TestResource
+============
+
+Resource for test.
