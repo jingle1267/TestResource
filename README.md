@@ -32,8 +32,8 @@ https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Chrysanthe
 Audios:
 -------
 
-https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/Yiruma_KissTheRain.mp3
-https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/Maria_ArredondoBurning.mp3
+https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/KissTheRain.mp3
+https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/ArredondoBurning.mp3
 https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/LiangZhu.mp3
 https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/IevanPolkka.mp3
 
