@@ -43,5 +43,8 @@ Media:
 https://github.com/jingle1267/TestResource/raw/master/media/Cannon.mp4
 https://github.com/jingle1267/TestResource/raw/master/media/SomeoneLikeYou.mp4
 
-
-
+Author
+------
+| [![HEAD](https://avatars3.githubusercontent.com/u/128755?s=70)](http://worthed.com "Visit worthed.com") |
+|---|
+| [WORTHED.COM](http://worthed.com) |
