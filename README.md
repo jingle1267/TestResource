@@ -27,7 +27,8 @@ https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Jellyfish.
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Hydrangeas.jpg
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Desert.jpg
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Chrysanthemum.jpg
-
+https://avatars2.githubusercontent.com/u/3887795?v=2&s=60
+https://avatars2.githubusercontent.com/u/3887795?v=2&s=[the width of picture you want]
 
 Audio:
 -------
