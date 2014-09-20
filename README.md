@@ -4,7 +4,7 @@ TestResource
 Resource for test.
 
 
-Logos:
+Logo:
 -------
 
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/ic_launcher_36.png
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/ic_launche
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/ic_launcher_192.png
 
 
-Images:
+Image:
 -------
 
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Tulips.jpg
@@ -29,12 +29,19 @@ https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Desert.jpg
 https://raw.githubusercontent.com/jingle1267/TestResource/master/imgs/Chrysanthemum.jpg
 
 
-Audios:
+Audio:
 -------
 
 https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/KissTheRain.mp3
 https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/ArredondoBurning.mp3
 https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/LiangZhu.mp3
 https://raw.githubusercontent.com/jingle1267/TestResource/master/audios/IevanPolkka.mp3
+
+
+Media:
+------
+https://github.com/jingle1267/TestResource/raw/master/media/Cannon.mp4
+https://github.com/jingle1267/TestResource/raw/master/media/SomeoneLikeYou.mp4
+
 
 
