@@ -1,0 +1,41 @@
+{
+    "errCode": 0,
+    "retCode": 0,
+    "msg": "",
+    "data": {
+        "recvAddrs": {
+            "addressList": [
+                {
+                    "address": "上海上海市宝山区FCC",
+                    "addressId": 10,
+                    "city": "上海市",
+                    "district": "宝山区",
+                    "lastModifyTime": "1414377342",
+                    "lastUsedTime": "1414375607",
+                    "mobile": "15800885222",
+                    "name": "Hvgg",
+                    "phone": "",
+                    "postcode": "000000",
+                    "province": "上海",
+                    "regionId": 205,
+                    "usedCount": 0
+                },
+                {
+                    "address": "重庆重庆市永川市High",
+                    "addressId": 9,
+                    "city": "重庆市",
+                    "district": "永川市",
+                    "lastModifyTime": "1414375427",
+                    "lastUsedTime": "1414375278",
+                    "mobile": "15043685888",
+                    "name": "HBO",
+                    "phone": "",
+                    "postcode": "108563",
+                    "province": "重庆",
+                    "regionId": 2107,
+                    "usedCount": 0
+                }
+            ]
+        }
+    }
+}

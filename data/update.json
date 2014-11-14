@@ -1,0 +1,19 @@
+{
+    "errCode": "0",
+    "retCode": "0",
+    "msg": "",
+    "data": {
+        "feature": {
+            "JJP": "http://app.paipai.com/polyBoutique/index.html",
+            "SG": "http://www.paipai.com/3/index.shtml?app=1",
+            "WXPay": 1,
+            "JDLogin": 1,
+            "PPY": "",
+            "hdfk": 0
+        },
+        "update": "n",
+        "url": "http://static.paipaiimg.com/paipaiapp/PaiPai_V0.1_1022_testUpdate.apk",
+        "version": "V1.0_1022_TestUpdate",
+        "info": "无"
+    }
+}
