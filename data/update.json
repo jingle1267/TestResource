@@ -4,16 +4,13 @@
     "msg": "",
     "data": {
         "feature": {
-            "JJP": "http://app.paipai.com/polyBoutique/index.html",
-            "SG": "http://www.paipai.com/3/index.shtml?app=1",
-            "WXPay": 1,
-            "JDLogin": 1,
-            "PPY": "",
-            "hdfk": 0
+            "param0": 1,
+            "param1": "a",
+            "param2": "b"
         },
-        "update": "n",
-        "url": "http://static.paipaiimg.com/paipaiapp/PaiPai_V0.1_1022_testUpdate.apk",
-        "version": "V1.0_1022_TestUpdate",
-        "info": "无"
+        "update": 3,
+        "url": "https://github.com/jingle1267/github_super_demos/raw/master/myapp/FloatViewDemo.apk",
+        "version": "V2.0.0",
+        "info": "Bug fix."
     }
 }
