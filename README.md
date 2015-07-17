@@ -72,6 +72,10 @@ https://raw.githubusercontent.com/jingle1267/TestResource/master/data/address.js
 https://raw.githubusercontent.com/jingle1267/TestResource/master/data/update.json
 <br>
 
+XML:
+----
+https://raw.githubusercontent.com/jingle1267/TestResource/master/xml/eclipse-java-google-style.xml
+
 Author
 ------
 | [![HEAD](https://avatars2.githubusercontent.com/u/3887795?v=2&s=120)](http://ihongqiqu.com "Visit ihongqiqu.com") |
