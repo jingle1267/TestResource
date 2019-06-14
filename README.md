@@ -38,11 +38,6 @@ Image:
 | ![](https://avatars2.githubusercontent.com/u/3887795?v=2&s=60) | https://avatars2.githubusercontent.com/u/3887795?v=2&s=60 https://avatars2.githubusercontent.com/u/3887795?v=2&s=[the_width_of_picture_you_want] |
 
 <br>
-https://avatars2.githubusercontent.com/u/3887795?v=2&s=60
-<br>
-https://avatars2.githubusercontent.com/u/3887795?v=2&s=[the_width_of_picture_you_want]
-<br>
-https://kyfw.12306.cn/otn/passcodeNew/getPassCodeNew?module=login&rand=sjrand&0.21191171556711197
 
 Audio:
 -------
